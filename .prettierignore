@@ -1,0 +1,11 @@
+/index.html
+/demonstracoes.html
+/CASE-STUDY.md
+/styles.css
+/demonstracoes.css
+/app.js
+/demonstracoes.js
+/demo-rules.js
+node_modules/
+.build/
+assets/

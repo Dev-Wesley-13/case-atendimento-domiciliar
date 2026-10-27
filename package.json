@@ -1,0 +1,25 @@
+{
+  "name": "case-atendimento-domiciliar",
+  "version": "1.1.0",
+  "private": true,
+  "description": "Case profissional de Wesley Fonseca e demonstrações independentes.",
+  "scripts": {
+    "start": "node server.mjs",
+    "build": "node scripts/build.mjs",
+    "stage": "node scripts/stage.mjs",
+    "test": "node --test tests/*.test.cjs",
+    "check": "node scripts/check.mjs",
+    "format": "prettier --write src content scripts tests docs *.md *.json *.mjs .github/workflows/*.yml",
+    "format:check": "prettier --check src content scripts tests docs *.md *.json *.mjs .github/workflows/*.yml",
+    "pdf": "python scripts/pdf.py",
+    "verify": "npm run build && npm test && npm run check"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "devDependencies": {
+    "jsdom": "29.1.1",
+    "marked": "18.1.1",
+    "prettier": "3.9.10"
+  }
+}

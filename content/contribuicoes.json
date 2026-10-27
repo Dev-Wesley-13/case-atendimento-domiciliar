@@ -1,0 +1,167 @@
+[
+  [
+    "E01",
+    "Criação e integração do portal profissional",
+    "web back integracoes",
+    "Portal idealizado e conduzido individualmente; integração ao ecossistema compartilhado."
+  ],
+  [
+    "E02",
+    "Magic link, autenticação e ciclo de acesso",
+    "back web integracoes",
+    "Implementação e evolução do acesso às demandas."
+  ],
+  [
+    "E03",
+    "Manifestação de interesse e busca de demandas",
+    "back web",
+    "Backend e portal profissional."
+  ],
+  [
+    "E04",
+    "Cache de consultas com TanStack Query",
+    "web",
+    "Contribuições nos portais de profissionais e contratos."
+  ],
+  [
+    "E05",
+    "Dashboard de captação e desempenho",
+    "back web",
+    "Implementação com reuso da base de monitoramento do colega."
+  ],
+  [
+    "E06",
+    "Telas e integração de notificações",
+    "web back",
+    "Entrega compartilhada, com base backend do colega."
+  ],
+  ["E07", "Histórico de captação", "web back", "Contribuições próprias e compartilhadas."],
+  [
+    "E08",
+    "Fluxos e integrações BotConversa",
+    "integracoes back web",
+    "Evolução dos fluxos em colaboração."
+  ],
+  [
+    "E09",
+    "Geração e sincronização de sessões",
+    "back web",
+    "Sessões retroativas, extras e preservação do histórico."
+  ],
+  [
+    "E10",
+    "Estado do planejamento de atendimento",
+    "back web",
+    "Evolução das regras e interfaces."
+  ],
+  [
+    "E11",
+    "Substituições de profissionais e auditoria",
+    "back web mobile",
+    "Implementações em domínio desenvolvido em colaboração."
+  ],
+  [
+    "E12",
+    "Faturamento pela data realizada",
+    "back web",
+    "Regras e evolução das telas de faturamento."
+  ],
+  [
+    "E13",
+    "Negociação e reenvio de orçamento",
+    "back web integracoes",
+    "Contribuições próprias e compartilhadas na triagem."
+  ],
+  [
+    "E14",
+    "Concorrência nos webhooks de triagem",
+    "back integracoes qualidade",
+    "Guardas de status, transações e testes relacionados."
+  ],
+  ["E15", "Diagnóstico unificado e CID-11", "back web", "Integração de dados nas aplicações."],
+  [
+    "E16",
+    "Avaliações clínicas e perfil assistencial",
+    "back web mobile",
+    "Implementação dos requisitos nas três plataformas."
+  ],
+  [
+    "E17",
+    "Formulários e escalas de avaliação",
+    "back web mobile",
+    "Formulários e dados conforme instrumentos do domínio."
+  ],
+  [
+    "E18",
+    "Acompanhamento de alertas assistenciais",
+    "back web qualidade",
+    "Estados, histórico, telas, PDF e testes conforme regras do cliente."
+  ],
+  [
+    "E19",
+    "Distribuição de responsabilidades nos fluxos",
+    "back web integracoes",
+    "Implementação do roteamento de responsabilidades."
+  ],
+  [
+    "E20",
+    "Fuso horário e testes de datas",
+    "back qualidade",
+    "Correções de comportamento entre ambientes."
+  ],
+  [
+    "E21",
+    "Detecção proativa de conexão",
+    "mobile",
+    "NetInfo sobre base offline preexistente."
+  ],
+  [
+    "E22",
+    "Builds, publicação e OTA",
+    "mobile",
+    "Um ciclo pelas lojas e atualizações de rotina por OTA."
+  ],
+  [
+    "E23",
+    "Autocadastro e duplicidades",
+    "back web",
+    "Melhorias sobre endpoints e base compartilhados."
+  ],
+  ["E24", "Notas do paciente", "back web", "Implementação e apresentação das anotações."],
+  [
+    "E25",
+    "Histórico de valores e frequências",
+    "back web",
+    "Evolução das informações do planejamento de atendimento."
+  ],
+  [
+    "E26",
+    "Evidências em PDF e prorrogação em lote",
+    "back web",
+    "Contribuições aos fluxos de operação."
+  ],
+  [
+    "E27",
+    "Documentação e padrões BotConversa",
+    "qualidade integracoes",
+    "Documentos incorporados; padronização continua em evolução."
+  ],
+  [
+    "E28",
+    "Formulários, responsividade e scripts iniciais",
+    "web back",
+    "Inclui contribuições em deploy frontend."
+  ],
+  [
+    "E29",
+    "CPF, registro profissional e bairros",
+    "back web",
+    "Contribuições realizadas no início da atuação."
+  ],
+  [
+    "E30",
+    "Compatibilidade de nomenclatura de status",
+    "web mobile",
+    "Correções entre as aplicações."
+  ]
+]
